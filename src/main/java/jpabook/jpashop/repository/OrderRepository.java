@@ -66,7 +66,6 @@ public class OrderRepository {
      * JPA Criteria
      */
     public List<Order> findAllByCriteria(OrderSearch orderSearch){
-
-
+        return null;
     }
 }
